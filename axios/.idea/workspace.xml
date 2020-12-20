@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="600e0b34-c248-4f0c-acf2-f4d5cd7d3f1f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/it/ph/springboot/vue/axios/service/ClassServiceImplTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="600e0b34-c248-4f0c-acf2-f4d5cd7d3f1f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +145,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="108" />
     <option name="width" value="1347" />
     <option name="height" value="595" />
@@ -473,7 +471,7 @@
       <workItem from="1597742382275" duration="18000" />
       <workItem from="1601191748443" duration="14000" />
       <workItem from="1601192824605" duration="7000" />
-      <workItem from="1608451355166" duration="154000" />
+      <workItem from="1608451355166" duration="822000" />
     </task>
     <servers />
   </component>
@@ -507,10 +505,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43900000" />
+    <option name="totallyTimeSpent" value="44568000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19235925" />
