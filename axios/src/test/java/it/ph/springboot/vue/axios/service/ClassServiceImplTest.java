@@ -16,4 +16,10 @@ class ClassServiceImplTest {
     void queryModel() {
         classServiceImpl.queryModel();
     }
+
+    @Test
+    void deledaeClass() {
+        classServiceImpl.deledaeClass(1);
+        //我也修改了代码
+    }
 }
