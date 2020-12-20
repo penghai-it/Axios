@@ -29,6 +29,7 @@ class ClassServiceImplTest {
         ClassModel classModel = new ClassModel();
         classServiceImpl.updetaClass(classModel);
     }
+
     //我经行了修改了
 //改解决代码冲突了
     /**
