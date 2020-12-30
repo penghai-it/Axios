@@ -24,7 +24,7 @@ class ClassServiceImplTest {
         classServiceImpl.deledaeClass(1);
         //我也修改了代码
     }
-
+    @Test
     void updetaClass() {
         ClassModel classModel = new ClassModel();
         classServiceImpl.updetaClass(classModel);
